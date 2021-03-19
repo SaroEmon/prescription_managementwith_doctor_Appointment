@@ -1,4 +1,4 @@
-
+ 
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
@@ -58,14 +58,14 @@
 </div>
 <div class="nalika-profile">
 <div class="profile-dtl">
-<a href="#"><img src="img/notification/4.jpg" alt="" /></a>
-<h2>Lakian <span class="min-dtn">Das</span></h2>
+<a href="#"><img src="img/cover.jpg" alt="" /></a>
+<h2>Saroar <span class="min-dtn">Hossain</span></h2>
 </div>
 <div class="profile-social-dtl">
 <ul class="dtl-social">
 <li><a href="#"><i class="icon nalika-facebook"></i></a></li>
 <li><a href="#"><i class="icon nalika-twitter"></i></a></li>
-<li><a href="#"><i class="icon nalika-linkedin"></i></a></li>
+
 </ul>
 </div>
 </div>
@@ -258,26 +258,23 @@
 <li class="nav-item">
 <a href="#" data-toggle="dropdown" role="button" aria-expanded="false" class="nav-link dropdown-toggle">
 <i class="icon nalika-user"></i>
-<span class="admin-name">Advanda Cro</span>
+
+
+
+
 <i class="icon nalika-down-arrow nalika-angle-dw"></i>
 </a>
 <ul role="menu" class="dropdown-header-top author-log dropdown-menu animated zoomIn">
-<li><a href="register.html"><span class="icon nalika-home author-log-ic"></span> Register</a>
-</li>
+
+
 <li><a href="#"><span class="icon nalika-user author-log-ic"></span> My Profile</a>
 </li>
-<li><a href="lock.html"><span class="icon nalika-diamond author-log-ic"></span> Lock</a>
-</li>
-<li><a href="#"><span class="icon nalika-settings author-log-ic"></span> Settings</a>
-</li>
+
+
+
 <li><a href="login.html"><span class="icon nalika-unlocked author-log-ic"></span> Log Out</a>
 </li>
 </ul>
-</li>
-
-<li><a data-toggle="tab" href="#Projects">Activity</a>
-</li>
-<li><a data-toggle="tab" href="#Settings">Settings</a>
 </li>
 </ul>
 
@@ -290,33 +287,9 @@
 <div class="checkbox-setting-pro">
 <div class="checkbox-title-pro">
 
-<div class="ts-custom-check">
-<div class="onoffswitch">
-<input type="checkbox" name="collapsemenu" checked="" class="onoffswitch-checkbox" id="example5">
-<label class="onoffswitch-label" for="example5">
-<span class="onoffswitch-inner"></span>
-<span class="onoffswitch-switch"></span>
+
 </label>
-</div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 
 <div class="mobile-menu-area">
 <div class="container">
@@ -327,16 +300,10 @@
 <ul class="mobile-menu-nav">
 <li><a data-toggle="collapse" data-target="#Charts" href="#">Home <span class="admin-project-icon nalika-icon nalika-down-arrow"></span></a>
 <ul class="collapse dropdown-header-top">
-<li><a href="index.html">Dashboard v.1</a></li>
-<li><a href="index-1.html">Dashboard v.2</a></li>
-<li><a href="index-3.html">Dashboard v.3</a></li>
-<li><a href="product-list.html">Product List</a></li>
-<li><a href="product-edit.html">Product Edit</a></li>
-<li><a href="product-detail.html">Product Detail</a></li>
- <li><a href="product-cart.html">Product Cart</a></li>
-<li><a href="product-payment.html">Product Payment</a></li>
-<li><a href="analytics.html">Analytics</a></li>
-<li><a href="widgets.html">Widgets</a></li>
+
+
+
+
 </ul>
 </li>
 <li><a data-toggle="collapse" data-target="#demo" href="#">Mailbox <span class="admin-project-icon nalika-icon nalika-down-arrow"></span></a>
